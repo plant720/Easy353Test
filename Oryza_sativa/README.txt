@@ -20,10 +20,11 @@
 	
 8. work.sh
 	The file records the command to run the test (Note: you should install ART, HybPiper 2.0, Easy353)
+
+9. compare.py
+	A script for calculating the identity and coverage between the recovered sequences and the gold standard sequences.
 	
 	
-
-
 Reference
 	1. Weichun Huang, Leping Li, Jason R Myers, and Gabor T Marth. ART: a next-generation sequencing read simulator, Bioinformatics (2012) 28 (4): 593-594
 	2. Johnson MG, Gardner EM, Liu Y, Medina R, Goffinet B, Shaw AJ, Zerega NJ, Wickett NJ. HybPiper: Extracting coding sequence and introns for phylogenetics from high-throughput sequencing reads using target enrichment. Appl Plant Sci. 2016 Jul 12;4(7):apps.1600016. doi: 10.3732/apps.1600016. PMID: 27437175; PMCID: PMC4948903.
